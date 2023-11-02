@@ -215,5 +215,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/66f7c216-ba05-4d3b-912e-108e10b25726
+
+
+https://github.com/IdrisSyahrudin/DeretFebonacci/assets/129921422/8dafe4dd-8b8c-4ed7-a3be-785071ed4699
+
 
