@@ -204,8 +204,8 @@ public class MainActivity extends AppCompatActivity {
 ## Tampilan design
 
 
+![Screenshot (151)](https://github.com/IdrisSyahrudin/DeretFebonacci/assets/129921422/746b6311-d62e-4356-958a-c8ba295381a1)
 
-![Screenshot (116)](https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/3ce9415d-bf44-45fc-a8eb-cdf5734ffd3c)
 
 
 
